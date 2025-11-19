@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Produced by HollowByte Studios LLC
+description: Kyle Mogan's Professional and Personal Projects
 nav: true
 nav_order: 1
-display_categories: [HollowByte Studios LLC Projects]
+display_categories: [Professional, Personal]
 horizontal: false
 ---
 
