@@ -9,23 +9,16 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-privacy-policy",
-          title: "privacy policy",
-          description: "Privacy Policy for WordFlurry by HollowByte Studio LLC",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/privacy-policy/";
-          },
-        },{id: "nav-projects",
+  },{id: "nav-projects",
           title: "projects",
-          description: "Produced by HollowByte Studios LLC",
+          description: "Kyle Mogan&#39;s Professional and Personal Projects",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "HollowByte Studios LLC GitHub repositories and users",
+          description: "Kyle Mogan&#39;s GitHub repositories",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
@@ -36,13 +29,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
-          },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the team",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
           },
         },{id: "news-first-announcement-wordflurry-a-fast-paced-word-find-game-is-currently-being-developed-and-is-scheduled-for-release-in-2026-sparkles-smile",
           title: 'First Announcement! WordFlurry - a fast-paced word find game is currently being developed...',
@@ -57,7 +43,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%68%6F%6C%6C%6F%77%62%79%74%65%73%74%75%64%69%6F%73%6C%6C%63.%68%65%6C%70@%67%6D%61%69%6C.%63%6F%6D", "_blank");
+          window.open("mailto:%6B%6D%6F%67%61%6E%31%37@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
       id: 'light-theme',

@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hollowbyte-studios-llc.github.io//sitemap.xml
+Sitemap: https://kmogs17.github.io//sitemap.xml
