@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: HollowByte Studios LLC # the website title (if blank, full name will be used instead)
+title: Kyle Mogan # the website title (if blank, full name will be used instead)
 first_name: Kyle
 middle_name: T.
 last_name: Mogan
@@ -18,7 +18,7 @@ keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your o
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://hollowbyte-studios-llc.github.io # the base hostname & protocol for your site
+url: https://kmogs17.github.io # the base hostname & protocol for your site
 baseurl: / # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -139,9 +139,6 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/about_dana_reinhart.md
-  - _pages/about_kyle_mogan.md
-  - _pages/about_thales_kirk.md
   - purgecss.config.js
   - README.md
   - readme_preview/

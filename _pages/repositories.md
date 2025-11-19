@@ -2,9 +2,9 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: HollowByte Studios LLC GitHub repositories and users
+description: Kyle Mogan's GitHub repositories
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 
 {% if site.data.repositories.github_users %}
