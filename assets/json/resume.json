@@ -4,9 +4,9 @@
     "label": "Senior Software Engineer",
     "image": "",
     "email": "kmogan17@gmail.com",
-    "phone": "(912) 123-4567",
+    "phone": "+1 (507) 366-8359",
     "url": "https://kmogs17.github.io/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "Senior Software Engineer with extensive experience in healthcare systems and a focus on building complex yet maintainable software solutions.",
     "location": {
       "address": "PO Box 151",
       "postalCode": "MN 55318-0151",
@@ -16,9 +16,9 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "kyle-mogan",
+        "url": "https://www.linkedin.com/in/kyle-mogan/"
       }
     ]
   },
@@ -33,6 +33,16 @@
       "highlights": ["Relativity"]
     }
   ],
+  "projects": [
+    {
+      "name": "WordFlurry",
+      "summary": "Our debut project, WordFlurry, is a fast-paced word game built in Unity and set for release in 2026. It’s designed to challenge players and keep them on their toes with every round.",
+      "highlights": ["Word Game", "Android", "Unity"],
+      "startDate": "2024-08-01",
+      "endDate": "2026-06-01",
+      "url": "https://kmogs17.github.io/projects/1_project.html"
+    }
+  ]
   "education": [
     {
       "institution": "University of Minnesota, Twin Cities",
@@ -92,16 +102,6 @@
         "Quantum Communication",
         "Quantum Teleportation"
       ]
-    }
-  ],
-  "projects": [
-    {
-      "name": "WordFlurry",
-      "summary": "Our debut project, WordFlurry, is a fast-paced word game built in Unity and set for release in 2026. It’s designed to challenge players and keep them on their toes with every round.",
-      "highlights": ["Word Game", "Android", "Unity"],
-      "startDate": "2024-08-01",
-      "endDate": "2026-06-01",
-      "url": "https://kmogs17.github.io/projects/1_project.html"
     }
   ]
 }
