@@ -26,15 +26,15 @@
     {
       "name": "Optum",
       "position": "Senior Software Engineer",
-      "url": "https://example.com",
+      "url": "https://www.optum.com/",
       "startDate": "2022-02-01",
       "summary": "TODO: Update description for current role.",
-      "highlights": ["TODO: Update highlights for current role."]
+      "highlights": ["Design and implement microservices for healthcare systems, including capitated services, using Java, Spring Boot/Batch, Kafka, and Databricks for real-time data streaming and analytics.", "Engineer a capitation engine capable of processing 1.2 million members in 42 minutes.", "Collaborate with a globally distributed team to manage developers, enforce coding standards, and support Agile and Scrum practices; reduce story splits by 40% through accurate sprint planning.", "Develop a file generation utility capable of processing 372,000 members in 22 seconds.", "Migrate services from on-prem to cloud and hybrid-cloud, resulting in $3 million in savings.", "Lead modernization and externalization initiatives, migrating legacy monolith components to microservices to enhance performance, scalability, and maintainability.", "Identify and resolve performance bottlenecks, improving API and job throughput by 95%+ via caching, multithreading, and process simplification.", "Innovate AI-driven solutions, leveraging ChatGPT and other ML tools to improve development quality, automation, and insights.", "Integrate services into CI/CD pipelines (GitHub Actions, Jenkins) and deploy across Kubernetes, Azure, and Google Cloud Platform (GCP) environments.", "Conduct database optimization and migration projects: MySQL → PostgreSQL and Cassandra → MongoDB."]
     },
     {
       "name": "Optum",
       "position": "Software Engineer",
-      "url": "https://example.com",
+      "url": "https://www.optum.com/",
       "startDate": "2017-04-01",
       "endDate": "2022-02-01",
       "summary": "I worked as a Software Engineer for several years on the same team. We were able to build a highly configurable and highly resilient application through accurate planning, time to focus on innovation and backlog items, and strict coding standards. I personally lead major efforts including development of the division of financial responsibility engine, and the delegation engine. I also made major contributions to the rules engine and claim auto adjudication engine.",
@@ -43,7 +43,7 @@
     {
       "name": "Optum",
       "position": "Senior Apps Developer",
-      "url": "https://example.com",
+      "url": "https://www.optum.com/",
       "startDate": "2016-07-01",
       "endDate": "2017-04-01",
       "summary": "When I started as a Senior Apps Developer, I was working on the same team from my second rotation as a Technology Development Program Senior Associate. On this team, we developed a monolithic healthcare administration platform. I quickly learned the framework and was able to start delivering new UIs and unit tests within weeks.",
@@ -52,7 +52,7 @@
     {
       "name": "Optum",
       "position": "Technology Development Program Senior Associate",
-      "url": "https://example.com",
+      "url": "https://www.optum.com/",
       "startDate": "2015-06-01",
       "endDate": "2016-07-01",
       "summary": "I was hired out of college as a Technology Development Program Senior Associate.",
