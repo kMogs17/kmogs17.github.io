@@ -4,7 +4,7 @@ title: WordFlurry
 description: A Fast Paced Word Finding Game
 img: assets/img/1.jpg
 importance: 1
-category: HollowByte Studios LLC Projects
+category: Personal
 related_publications: true
 ---
 

@@ -29,7 +29,7 @@
       "url": "https://example.com",
       "startDate": "2022-02-01",
       "summary": "TODO: Update description for current role.",
-      "highlights": ["Relativity"]
+      "highlights": ["TODO: Update highlights for current role."]
     },
     {
       "name": "Optum",
@@ -38,7 +38,7 @@
       "startDate": "2017-04-01",
       "endDate": "2022-02-01",
       "summary": "I worked as a Software Engineer for several years on the same team. We were able to build a highly configurable and highly resilient application through accurate planning, time to focus on innovation and backlog items, and strict coding standards. I personally lead major efforts including development of the division of financial responsibility engine, and the delegation engine. I also made major contributions to the rules engine and claim auto adjudication engine.",
-      "highlights": ["Relativity"]
+      "highlights": ["Develop and maintain monolithic claim adjudication systems handling claims, members, providers, networks, and contracts; engineer an adjudication engine achieving a 95%+ auto-adjudication rate.", "Develop back-end business logic based on workflows and ensure the workflows are aligned with the code base.", "Build and enhance a division of financial responsibility and delegation engine.", "Build and maintain RESTful APIs and UI components for internal and customer-facing systems.", "Implement logging, monitoring, and code quality practices using Splunk, SonarQube, and automated unit/integration testing (Java, Groovy).", "Perform production triage ensuring 99% uptime and rapid issue resolution across multiple environments.", "Build and deploy applications utilizing Jenkins pipelines."]
     },
     {
       "name": "Optum",
@@ -47,7 +47,7 @@
       "startDate": "2016-07-01",
       "endDate": "2017-04-01",
       "summary": "When I started as a Senior Apps Developer, I was working on the same team from my second rotation as a Technology Development Program Senior Associate. On this team, we developed a monolithic healthcare administration platform. I quickly learned the framework and was able to start delivering new UIs and unit tests within weeks.",
-      "highlights": ["Relativity"]
+      "highlights": ["Develop and maintain UIs, automation tests, and unit tests for a monolithic healthcare administration platform (handling claims, members, providers, networks, and contracts) that enables increased speed and flexibility for new markets and reduced costs.", "Build applications using MVC patterns, utilizing Java, MySQL, Javascript, CSS, and HTML."]
     },
     {
       "name": "Optum",
@@ -56,7 +56,7 @@
       "startDate": "2015-06-01",
       "endDate": "2016-07-01",
       "summary": "I was hired out of college as a Technology Development Program Senior Associate.",
-      "highlights": ["Relativity"]
+      "highlights": ["Develop and enhance UIs and unit tests for legacy systems which intake and process healthcare transactions containing liability.", "Learn about new architectures and tools through bootcamps and training."]
     }
   ],
   "projects": [
@@ -65,7 +65,6 @@
       "summary": "Our debut project, WordFlurry, is a fast-paced word game built in Unity and set for release in 2026. It’s designed to challenge players and keep them on their toes with every round.",
       "highlights": ["Word Game", "Android", "Unity"],
       "startDate": "2024-08-01",
-      "endDate": "2026-06-01",
       "url": "https://kmogs17.github.io/projects/1_project.html"
     }
   ],
@@ -117,6 +116,12 @@
       "level": "Expert",
       "icon": "fa-solid fa-hashtag",
       "keywords": ["Agile", "JSON", "XML", "Git", "Maven", "Gradle", "SonarQube", "SonarLint", "Spock", "JUnit", "Postman", "IntelliJ IDEA", "Visual Studio Code"]
+    },
+    {
+      "name": "Operating Systems & Environments",
+      "level": "Expert",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["macOS", "Linux", "Windows", "Android", "Computer Hardware"]
     }
   ],
   "certificates": [
