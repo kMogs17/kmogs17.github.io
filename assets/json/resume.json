@@ -29,7 +29,18 @@
       "url": "https://www.optum.com/",
       "startDate": "2022-02-01",
       "summary": "TODO: Update description for current role.",
-      "highlights": ["Design and implement microservices for healthcare systems, including capitated services, using Java, Spring Boot/Batch, Kafka, and Databricks for real-time data streaming and analytics.", "Engineer a capitation engine capable of processing 1.2 million members in 42 minutes.", "Collaborate with a globally distributed team to manage developers, enforce coding standards, and support Agile and Scrum practices; reduce story splits by 40% through accurate sprint planning.", "Develop a file generation utility capable of processing 372,000 members in 22 seconds.", "Migrate services from on-prem to cloud and hybrid-cloud, resulting in $3 million in savings.", "Lead modernization and externalization initiatives, migrating legacy monolith components to microservices to enhance performance, scalability, and maintainability.", "Identify and resolve performance bottlenecks, improving API and job throughput by 95%+ via caching, multithreading, and process simplification.", "Innovate AI-driven solutions, leveraging ChatGPT and other ML tools to improve development quality, automation, and insights.", "Integrate services into CI/CD pipelines (GitHub Actions, Jenkins) and deploy across Kubernetes, Azure, and Google Cloud Platform (GCP) environments.", "Conduct database optimization and migration projects: MySQL → PostgreSQL and Cassandra → MongoDB."]
+      "highlights": [
+        "Design and implement microservices for healthcare systems, including capitated services, using Java, Spring Boot/Batch, Kafka, and Databricks for real-time data streaming and analytics.",
+        "Engineer a capitation engine capable of processing 1.2 million members in 42 minutes.",
+        "Collaborate with a globally distributed team to manage developers, enforce coding standards, and support Agile and Scrum practices; reduce story splits by 40% through accurate sprint planning.",
+        "Develop a file generation utility capable of processing 372,000 members in 22 seconds.",
+        "Migrate services from on-prem to cloud and hybrid-cloud, resulting in $3 million in savings.",
+        "Lead modernization and externalization initiatives, migrating legacy monolith components to microservices to enhance performance, scalability, and maintainability.",
+        "Identify and resolve performance bottlenecks, improving API and job throughput by 95%+ via caching, multithreading, and process simplification.",
+        "Innovate AI-driven solutions, leveraging ChatGPT and other ML tools to improve development quality, automation, and insights.",
+        "Integrate services into CI/CD pipelines (GitHub Actions, Jenkins) and deploy across Kubernetes, Azure, and Google Cloud Platform (GCP) environments.",
+        "Conduct database optimization and migration projects: MySQL → PostgreSQL and Cassandra → MongoDB."
+      ]
     },
     {
       "name": "Optum",
@@ -38,7 +49,15 @@
       "startDate": "2017-04-01",
       "endDate": "2022-02-01",
       "summary": "I worked as a Software Engineer for several years on the same team. We were able to build a highly configurable and highly resilient application through accurate planning, time to focus on innovation and backlog items, and strict coding standards. I personally lead major efforts including development of the division of financial responsibility engine, and the delegation engine. I also made major contributions to the rules engine and claim auto adjudication engine.",
-      "highlights": ["Develop and maintain monolithic claim adjudication systems handling claims, members, providers, networks, and contracts; engineer an adjudication engine achieving a 95%+ auto-adjudication rate.", "Develop back-end business logic based on workflows and ensure the workflows are aligned with the code base.", "Build and enhance a division of financial responsibility and delegation engine.", "Build and maintain RESTful APIs and UI components for internal and customer-facing systems.", "Implement logging, monitoring, and code quality practices using Splunk, SonarQube, and automated unit/integration testing (Java, Groovy).", "Perform production triage ensuring 99% uptime and rapid issue resolution across multiple environments.", "Build and deploy applications utilizing Jenkins pipelines."]
+      "highlights": [
+        "Develop and maintain monolithic claim adjudication systems handling claims, members, providers, networks, and contracts; engineer an adjudication engine achieving a 95%+ auto-adjudication rate.",
+        "Develop back-end business logic based on workflows and ensure the workflows are aligned with the code base.",
+        "Build and enhance a division of financial responsibility and delegation engine.",
+        "Build and maintain RESTful APIs and UI components for internal and customer-facing systems.",
+        "Implement logging, monitoring, and code quality practices using Splunk, SonarQube, and automated unit/integration testing (Java, Groovy).",
+        "Perform production triage ensuring 99% uptime and rapid issue resolution across multiple environments.",
+        "Build and deploy applications utilizing Jenkins pipelines."
+      ]
     },
     {
       "name": "Optum",
@@ -47,7 +66,10 @@
       "startDate": "2016-07-01",
       "endDate": "2017-04-01",
       "summary": "When I started as a Senior Apps Developer, I was working on the same team from my second rotation as a Technology Development Program Senior Associate. On this team, we developed a monolithic healthcare administration platform. I quickly learned the framework and was able to start delivering new UIs and unit tests within weeks.",
-      "highlights": ["Develop and maintain UIs, automation tests, and unit tests for a monolithic healthcare administration platform (handling claims, members, providers, networks, and contracts) that enables increased speed and flexibility for new markets and reduced costs.", "Build applications using MVC patterns, utilizing Java, MySQL, Javascript, CSS, and HTML."]
+      "highlights": [
+        "Develop and maintain UIs, automation tests, and unit tests for a monolithic healthcare administration platform (handling claims, members, providers, networks, and contracts) that enables increased speed and flexibility for new markets and reduced costs.",
+        "Build applications using MVC patterns, utilizing Java, MySQL, Javascript, CSS, and HTML."
+      ]
     },
     {
       "name": "Optum",
@@ -56,7 +78,10 @@
       "startDate": "2015-06-01",
       "endDate": "2016-07-01",
       "summary": "I was hired out of college as a Technology Development Program Senior Associate.",
-      "highlights": ["Develop and enhance UIs and unit tests for legacy systems which intake and process healthcare transactions containing liability.", "Learn about new architectures and tools through bootcamps and training."]
+      "highlights": [
+        "Develop and enhance UIs and unit tests for legacy systems which intake and process healthcare transactions containing liability.",
+        "Learn about new architectures and tools through bootcamps and training."
+      ]
     }
   ],
   "projects": [
@@ -115,7 +140,21 @@
       "name": "Tools & Practices",
       "level": "Expert",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["Agile", "JSON", "XML", "Git", "Maven", "Gradle", "SonarQube", "SonarLint", "Spock", "JUnit", "Postman", "IntelliJ IDEA", "Visual Studio Code"]
+      "keywords": [
+        "Agile",
+        "JSON",
+        "XML",
+        "Git",
+        "Maven",
+        "Gradle",
+        "SonarQube",
+        "SonarLint",
+        "Spock",
+        "JUnit",
+        "Postman",
+        "IntelliJ IDEA",
+        "Visual Studio Code"
+      ]
     },
     {
       "name": "Operating Systems & Environments",
@@ -173,14 +212,7 @@
     {
       "name": "Personal",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Family Time",
-        "Snowboarding/Skiing",
-        "Skateboarding",
-        "Mountain Biking",
-        "Traveling",
-        "Video Games"
-      ]
+      "keywords": ["Family Time", "Snowboarding/Skiing", "Skateboarding", "Mountain Biking", "Traveling", "Video Games"]
     }
   ]
 }
