@@ -6,7 +6,7 @@
     "email": "kmogan17@gmail.com",
     "phone": "+1 (507) 366-8359",
     "url": "https://kmogs17.github.io/",
-    "summary": "Senior Software Engineer with extensive experience in healthcare systems and a focus on building complex yet maintainable software solutions.",
+    "summary": "Senior Software Engineer with 10+ years of experience building and modernizing large-scale healthcare platforms at a Fortune 5 enterprise. Experienced in developing full-stack and data-driven applications using modern frameworks, AI concepts, and cloud-native technologies. Specialized in high-throughput backend systems, cloud modernization, and data-intensive processing, delivering measurable gains in performance, reliability, security, cost efficiency, and innovation.",
     "location": {
       "address": "PO Box 151",
       "postalCode": "MN 55318-0151",
@@ -28,18 +28,19 @@
       "position": "Senior Software Engineer",
       "url": "https://www.optum.com/",
       "startDate": "2022-02-01",
-      "summary": "TODO: Update description for current role.",
+      "summary": "Optum is a global healthcare technology and services organization supporting payers, providers, and governments, operating on a national scale across millions of members. Optum is a Fortune 5 company with hundreds of billions of dollars in total revenue across all lines of business. \n\nSenior software engineer on a newly formed modernization team operating with startup-like autonomy to redesign and externalize legacy healthcare processing systems.",
       "highlights": [
-        "Design and implement microservices for healthcare systems, including capitated services, using Java, Spring Boot/Batch, Kafka, and Databricks for real-time data streaming and analytics.",
-        "Engineer a capitation engine capable of processing 1.2 million members in 42 minutes.",
-        "Collaborate with a globally distributed team to manage developers, enforce coding standards, and support Agile and Scrum practices; reduce story splits by 40% through accurate sprint planning.",
-        "Develop a file generation utility capable of processing 372,000 members in 22 seconds.",
-        "Migrate services from on-prem to cloud and hybrid-cloud, resulting in $3 million in savings.",
-        "Lead modernization and externalization initiatives, migrating legacy monolith components to microservices to enhance performance, scalability, and maintainability.",
-        "Identify and resolve performance bottlenecks, improving API and job throughput by 95%+ via caching, multithreading, and process simplification.",
-        "Innovate AI-driven solutions, leveraging ChatGPT and other ML tools to improve development quality, automation, and insights.",
-        "Integrate services into CI/CD pipelines (GitHub Actions, Jenkins) and deploy across Kubernetes, Azure, and Google Cloud Platform (GCP) environments.",
-        "Conduct database optimization and migration projects: MySQL → PostgreSQL and Cassandra → MongoDB."
+        "Designed and implemented microservices for healthcare systems, including capitated services, using Java, Spring Boot/Batch, Kafka, and Databricks for real-time data streaming and analytics",
+        "Engineered a capitation engine capable of processing 1.2 million members in 42 minutes, significantly reducing total runtime",
+        "Collaborated with a globally distributed medium team (~30 people) to manage developers, enforce coding standards, and support Agile and Scrum practices; reduce story splits by 40% through accurate sprint planning",
+        "Built a high-performance file generation utility capable of processing 372,000 members in 22 seconds",
+        "Migrated services from on-prem to cloud and hybrid-cloud, resulting in $3 million in savings",
+        "Led externalization of legacy monolith components, extracting them into independently deployable services",
+        "Led modernization initiatives, converting legacy monolith components into new microservices to enhance performance, scalability, and maintainability",
+        "Identified and resolved performance bottlenecks, improving API and job throughput by 95%+ via caching, multithreading, and process simplification",
+        "Innovated AI-driven solutions, leveraging ChatGPT and other ML tools to improve development quality, automation, and insights",
+        "Integrated services into CI/CD pipelines (GitHub Actions, Jenkins) and deploy across Kubernetes, Azure, and Google Cloud Platform (GCP) environments",
+        "Led database optimization and migration projects: MySQL → PostgreSQL and Cassandra → MongoDB"
       ]
     },
     {
@@ -48,15 +49,20 @@
       "url": "https://www.optum.com/",
       "startDate": "2017-04-01",
       "endDate": "2022-02-01",
-      "summary": "I worked as a Software Engineer for several years on the same team. We were able to build a highly configurable and highly resilient application through accurate planning, time to focus on innovation and backlog items, and strict coding standards. I personally lead major efforts including development of the division of financial responsibility engine, and the delegation engine. I also made major contributions to the rules engine and claim auto adjudication engine.",
+      "summary": "Software engineer on a highly configurable and resilient monolithic healthcare claims adjudication platform supporting claims, members, providers, networks, and contracts.",
       "highlights": [
-        "Develop and maintain monolithic claim adjudication systems handling claims, members, providers, networks, and contracts; engineer an adjudication engine achieving a 95%+ auto-adjudication rate.",
-        "Develop back-end business logic based on workflows and ensure the workflows are aligned with the code base.",
-        "Build and enhance a division of financial responsibility and delegation engine.",
-        "Build and maintain RESTful APIs and UI components for internal and customer-facing systems.",
-        "Implement logging, monitoring, and code quality practices using Splunk, SonarQube, and automated unit/integration testing (Java, Groovy).",
-        "Perform production triage ensuring 99% uptime and rapid issue resolution across multiple environments.",
-        "Build and deploy applications utilizing Jenkins pipelines."
+        "Developed and maintained claims adjudication systems supporting complex healthcare workflows",
+        "Engineered an adjudication engine achieving a 95%+ auto-adjudication rate",
+        "Implemented workflow-driven backend business logic aligned with domain rules and processing pipelines",
+        "Led development of division of financial responsibility and delegation engines",
+        "Built and maintained RESTful APIs and UI components for internal and customer-facing systems",
+        "Implemented logging, monitoring, and code quality practices using Splunk, SonarQube, and automated unit/integration testing (Java, Groovy)",
+        "Performed production triage ensuring 99% uptime and rapid issue resolution across multiple environments",
+        "Built and deployed applications utilizing Jenkins pipelines",
+        "Worked on a large co-located team (~60 people) of software engineers, system architects, and business and system analysts",
+        "Coordinated with several co-located teams all working on the same product (~250 people)",
+        "Coordinated with contractors and employees in India",
+        "Promoted to Senior Software Engineer due to technical expertise and high performance"
       ]
     },
     {
@@ -65,10 +71,14 @@
       "url": "https://www.optum.com/",
       "startDate": "2016-07-01",
       "endDate": "2017-04-01",
-      "summary": "When I started as a Senior Apps Developer, I was working on the same team from my second rotation as a Technology Development Program Senior Associate. On this team, we developed a monolithic healthcare administration platform. I quickly learned the framework and was able to start delivering new UIs and unit tests within weeks.",
+      "summary": "Senior application developer on a monolithic healthcare administration platform; promoted rapidly based on performance and technical ramp-up speed.",
       "highlights": [
-        "Develop and maintain UIs, automation tests, and unit tests for a monolithic healthcare administration platform (handling claims, members, providers, networks, and contracts) that enables increased speed and flexibility for new markets and reduced costs.",
-        "Build applications using MVC patterns, utilizing Java, MySQL, Javascript, CSS, and HTML."
+        "Developed and maintained UIs, automation tests, and unit tests for a monolithic healthcare administration platform (handling claims, members, providers, networks, and contracts) that enables increased speed and flexibility for new markets and reduced costs",
+        "Built applications using MVC patterns, utilizing Java, MySQL, Javascript, CSS, and HTML",
+        "Contributed to test automation frameworks and testing standards",
+        "Worked on a medium co-located team (~35 people) of software engineers, system architects, and business and system analysts",
+        "Rapidly onboarded to internal frameworks and delivered production features within weeks",
+        "Promoted to Software Engineer due to impact and consistency"
       ]
     },
     {
@@ -77,10 +87,14 @@
       "url": "https://www.optum.com/",
       "startDate": "2015-06-01",
       "endDate": "2016-07-01",
-      "summary": "I was hired out of college as a Technology Development Program Senior Associate.",
+      "summary": "Senior associate on a rotational engineering program exposing multiple healthcare platforms, teams, and architectures.",
       "highlights": [
-        "Develop and enhance UIs and unit tests for legacy systems which intake and process healthcare transactions containing liability.",
-        "Learn about new architectures and tools through bootcamps and training."
+        "Completed multiple 6-month rotations across legacy and modern healthcare systems",
+        "Developed UI enhancements and unit tests for systems processing healthcare liability transactions and consumer accounts",
+        "Participated in architecture bootcamps and internal technical training programs",
+        "Worked on a small co-located team (~20 people) of software engineers, system architects, and business and system analysts",
+        "Excelled in onboarding bootcamp curriculum, completing ahead of peers",
+        "Graduated early from the program and promoted to Senior Apps Developer"
       ]
     }
   ],
