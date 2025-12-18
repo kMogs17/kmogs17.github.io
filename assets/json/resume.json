@@ -28,7 +28,7 @@
       "position": "Senior Software Engineer",
       "url": "https://www.optum.com/",
       "startDate": "2022-02-01",
-      "summary": "Optum is a global healthcare technology and services organization supporting payers, providers, and governments, operating on a national scale across millions of members. Optum is a Fortune 5 company with hundreds of billions of dollars in total revenue across all lines of business. \n\nSenior software engineer on a newly formed modernization team operating with startup-like autonomy to redesign and externalize legacy healthcare processing systems.",
+      "summary": "Senior software engineer on a newly formed modernization team operating with startup-like autonomy to redesign and externalize legacy healthcare processing systems.",
       "highlights": [
         "Designed and implemented microservices for healthcare systems, including capitated services, using Java, Spring Boot/Batch, Kafka, and Databricks for real-time data streaming and analytics",
         "Engineered a capitation engine capable of processing 1.2 million members in 42 minutes, significantly reducing total runtime",
