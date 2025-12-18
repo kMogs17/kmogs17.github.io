@@ -33,11 +33,26 @@ ninja.data = [{
         },{id: "news-first-announcement-wordflurry-a-fast-paced-word-find-game-is-currently-being-developed-and-is-scheduled-for-release-in-2026-sparkles-smile",
           title: 'First Announcement! WordFlurry - a fast-paced word find game is currently being developed...',
           description: "",
-          section: "News",},{id: "projects-wordflurry",
+          section: "News",},{id: "projects-legacy-healthcare-system",
+          title: 'Legacy Healthcare System',
+          description: "A legacy healthcare system for consumer accounts and processing liability transactions.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project_legacy_system.html";
+            },},{id: "projects-microservice-framework-for-healthcare-system",
+          title: 'Microservice Framework for Healthcare System',
+          description: "A microservice framework for the healthcare system.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project_microservice_framework.html";
+            },},{id: "projects-modern-healthcare-system",
+          title: 'Modern Healthcare System',
+          description: "A Modern Healthcare System.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project_modern_healthcare.html";
+            },},{id: "projects-wordflurry",
           title: 'WordFlurry',
           description: "A Fast Paced Word Finding Game",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project.html";
+              window.location.href = "/projects/project_wordflurry.html";
             },},{
         id: 'social-email',
         title: 'email',
