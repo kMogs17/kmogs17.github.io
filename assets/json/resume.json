@@ -100,11 +100,34 @@
   ],
   "projects": [
     {
+      "name": "Microservice Framework for Healthcare",
+      "summary": "Microservices for healthcare systems, including capitated services, using Java, Spring Boot/Batch, Kafka, and Databricks for real-time data streaming and analytics.",
+      "highlights": ["Spring Batch", "Kafka", "Kubernetes", "GCP"],
+      "startDate": "2020-06-01",
+      "url": "https://kmogs17.github.io/projects/project_microservice_framework.html"
+    },
+    {
+      "name": "Modern Healthcare Platform",
+      "summary": "A highly configurable and resilient monolithic healthcare claims adjudication platform supporting claims, members, providers, networks, and contracts.",
+      "highlights": ["Java", "MySQL", "JavaScript", "CSS", "HTML"],
+      "startDate": "2016-01-01",
+      "endDate": "2020-05-31",
+      "url": "https://kmogs17.github.io/projects/project_modern_healthcare.html"
+    },
+    {
+      "name": "Legacy Healthcare System",
+      "summary": "A legacy system processing healthcare liability transactions and consumer accounts.",
+      "highlights": ["Java", "Groovy", "MySQL"],
+      "startDate": "2015-06-01",
+      "endDate": "2015-12-31",
+      "url": "https://kmogs17.github.io/projects/project_legacy_system.html"
+    },
+    {
       "name": "WordFlurry",
       "summary": "HollowByte Studios LLC debut project, WordFlurry, is a fast-paced word game built in Unity and set for release in 2026. It’s designed to challenge players and keep them on their toes with every round.",
       "highlights": ["Word Game", "Android", "Unity"],
       "startDate": "2024-08-01",
-      "url": "https://kmogs17.github.io/projects/1_project.html"
+      "url": "https://kmogs17.github.io/projects/project_wordflurry.html"
     }
   ],
   "skills": [
