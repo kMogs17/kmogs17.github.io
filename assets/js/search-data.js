@@ -38,14 +38,14 @@ ninja.data = [{
           description: "A legacy healthcare system for consumer accounts and processing liability transactions.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/project_legacy_system.html";
-            },},{id: "projects-microservice-framework-for-healthcare-system",
-          title: 'Microservice Framework for Healthcare System',
-          description: "A microservice framework for the healthcare system.",
+            },},{id: "projects-microservice-framework-for-healthcare",
+          title: 'Microservice Framework for Healthcare',
+          description: "A microservice framework for the healthcare.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/project_microservice_framework.html";
-            },},{id: "projects-modern-healthcare-system",
-          title: 'Modern Healthcare System',
-          description: "A Modern Healthcare System.",
+            },},{id: "projects-modern-healthcare-platform",
+          title: 'Modern Healthcare Platform',
+          description: "A modern web based healthcare platform using MVC patterns, utilizing Java, MySQL, Javascript, CSS, and HTML.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/project_modern_healthcare.html";
             },},{id: "projects-wordflurry",
