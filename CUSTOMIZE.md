@@ -8,7 +8,6 @@ Here we will give you some tips on how to customize the website. One important t
   - [Project structure](#project-structure)
   - [Configuration](#configuration)
   - [Modifying the CV information](#modifying-the-cv-information)
-  - [Modifying the user and repository information](#modifying-the-user-and-repository-information)
   - [Creating new pages](#creating-new-pages)
   - [Creating new blog posts](#creating-new-blog-posts)
   - [Creating new projects](#creating-new-projects)
