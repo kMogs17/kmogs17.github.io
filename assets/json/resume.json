@@ -40,7 +40,9 @@
         "Identified and resolved performance bottlenecks, improving API and job throughput by 95%+ via caching, multithreading, and process simplification",
         "Innovated AI-driven solutions, leveraging ChatGPT and other ML tools to improve development quality, automation, and insights",
         "Integrated services into CI/CD pipelines (GitHub Actions, Jenkins) and deploy across Kubernetes, Azure, and Google Cloud Platform (GCP) environments",
-        "Led database optimization and migration projects: MySQL → PostgreSQL and Cassandra → MongoDB"
+        "Led database optimization and migration projects: MySQL → PostgreSQL and Cassandra → MongoDB",
+        "Implemented a Retrieval-Augmented Generation (RAG) pipeline using Python, LangGraph, ChromaDB, Azure Databricks, and GPT-4 models to support question-answering over medical documentation",
+        "Engineered validation pipelines, embedding strategies, and human-in-the-loop review mechanisms to ensure correctness, compliance, and safe deployment of AI-assisted outputs in regulated environments"
       ]
     },
     {
