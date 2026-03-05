@@ -26,6 +26,8 @@ While building this application, I had several notable achievements.
 - Integrated services into CI/CD pipelines (**GitHub Actions**, **Jenkins**) and deploy across **Kubernetes**, **Azure**, and **Google Cloud Platform (GCP)** environments.
 - Led database optimization and migration projects: **MySQL → PostgreSQL** and **Cassandra → MongoDB**.
 - **Reduced story splits by 40%** through accurate sprint planning.
+- Implemented a **Retrieval-Augmented Generation (RAG) pipeline** using **Python**, **LangGraph**, **ChromaDB**, **Azure Databricks**, and **GPT-4 models** to support question-answering over medical documentation.
+- Engineered **validation pipelines**, **embedding strategies**, and **human-in-the-loop** review mechanisms to ensure correctness, compliance, and safe deployment of AI-assisted outputs in regulated environments.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

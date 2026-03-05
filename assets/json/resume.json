@@ -46,6 +46,18 @@
       ]
     },
     {
+      "name": "RecordBookHQ",
+      "position": "AI Systems Engineer - Part Time Contract",
+      "url": "https://www.recordbookhq.com/",
+      "startDate": "2025-01-30",
+      "summary": "AI Systems Engineer responsible for designing and implementing LLM-powered natural language interfaces and Retrieval-Augmented Generation (RAG) pipelines within a production CRM platform, enabling secure, validated database query generation and AI-assisted workflow automation.",
+      "highlights": [
+        "Architected LLM-powered natural language query interface translating structured model outputs into validated dynamic database queries",
+        "Implemented schema-constrained JSON outputs and server-side validation to ensure deterministic and secure execution",
+        "Integrated OpenAI APIs into Laravel-based backend systems to support AI-assisted CRM workflows"
+      ]
+    },
+    {
       "name": "Optum",
       "position": "Software Engineer",
       "url": "https://www.optum.com/",
