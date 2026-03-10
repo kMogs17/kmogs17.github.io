@@ -167,7 +167,7 @@
       "name": "AI/ML",
       "level": "Expert",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["NLP", "AutoML", "BigQuery ML"]
+      "keywords": ["NLP", "AutoML", "BigQuery ML", "ChatGPT", "LangChart", "LangGraph", "ChromaDB"]
     },
     {
       "name": "Monitoring & Analytics",
